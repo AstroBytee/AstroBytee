@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AstroBytee
+- 👀 I’m interested in video game development, AI, software development, and everything Sci-fi.
+- 🌱 I’m currently learning Godot, HTML, CSS, and javascript
+- 💞️ I’m looking to collaborate on video game development projects
+- 😄 Pronouns: He, Him, They
+- ⚡ Fun fact: I think Dragons are cool
